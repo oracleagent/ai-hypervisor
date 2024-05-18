@@ -70,3 +70,7 @@ After setting up and initializing the AI Hypervisor, you can:
 1. **Integrate Additional Agents**: Add new logic and thought agents to extend the AI system's capabilities.
 2. **Enhance Communication Protocols**: Improve inter-agent communication mechanisms for better coordination and efficiency.
 3. **Optimize Resource Management**: Continuously optimize resource allocation strategies to enhance system performance.
+
+## Contact
+
+For further inquiries, technical support, or collaboration opportunities, please open an issue on the GitHub repository.
